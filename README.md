@@ -1,7 +1,7 @@
 Spotify Advanced SQL Project and Query Optimization P-6
 Project Category: Advanced Click Here to get Dataset
 
-![spotify](C:\Users\Rakshitha\Downloads)
+![](https://www.vecteezy.com/png/42148659-spotify-logo-spotify-social-media-icon)
 
 
 **Overview**
